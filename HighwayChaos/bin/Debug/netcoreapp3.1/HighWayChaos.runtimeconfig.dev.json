@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Miro\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Miro\\.nuget\\packages"
+    ]
+  }
+}
