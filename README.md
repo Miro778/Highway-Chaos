@@ -1,3 +1,4 @@
 # Highway-Chaos
-A small 2D game project mad with C# &amp; Jypeli. The player needs to dodge cars for as long as possible and gets a score based on time survived. 3 different difficulty levels.
-The code is in 'HighwayChaos/Fysiikkapeli.cs' file.
+Pienehkö 2D peliprojekti, jossa pelaajan tulee autollaan väistellä vastaantulevia autoja niin pitkään kuin mahdollista, ja saa pisteet selvityn ajan mukaan. 3 eri vaikeustasoa. C# ja Jypeli-kirjastoa käytetty toteutukseen. Koodi löytyy 'HighwayChaos/Fysiikkapeli.cs'-tiedostosta.
+
+Peli toteutettiin osana ohjelmointikurssia vuoden 2020 keväällä.
